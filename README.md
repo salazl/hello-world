@@ -1,2 +1,2 @@
 # hello-world
-hello world first repo
+Writing a bit about myself!
